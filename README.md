@@ -1,4 +1,4 @@
-# passengersService
+# PassengersService
 # Introduction
 In this project is created Passenger's service with functionalities, like creating passenger, retrieving passengers or single passenger, updating existing passenger and deleting passengers.
 
